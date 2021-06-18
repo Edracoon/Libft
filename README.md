@@ -1,4 +1,4 @@
-# 42 Project : Libft_42
+# 42 Project : Libft
 -----------------------
 Status : Finished
 115% moulinette
